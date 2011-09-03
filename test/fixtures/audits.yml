@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  event: MyString
+  entity: MyString
+  changes: MyString
+
+two:
+  event: MyString
+  entity: MyString
+  diff: MyString

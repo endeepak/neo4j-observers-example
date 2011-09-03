@@ -52,5 +52,7 @@ module Neo4jObserversExample
 
     # Configure where the neo4j database should exist
     config.neo4j.storage_path = "#{config.root}/db/neo4j-#{Rails.env}"
+
+    config.neo4j.observers = :blog_observer
   end
 end

@@ -1,4 +1,6 @@
 Neo4jObserversExample::Application.routes.draw do
+  resources :audits
+
   resources :blogs
 
   # The priority is based upon order of creation:
