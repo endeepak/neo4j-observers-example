@@ -1,7 +1,6 @@
 GIT
-  remote: /Users/deepakn/dev/ruby/work/neo4j/.git
-  revision: 70887323ac08c7e629089a7a9f0695716da2fed2
-  branch: observers
+  remote: git://github.com/andreasronge/neo4j.git
+  revision: 809364860b9db3ef9ca171b7c7058f4dd96c649e
   specs:
     neo4j (1.2.1-java)
       activemodel (>= 3.0.0)

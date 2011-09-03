@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.9'
-gem 'neo4j', :git => "/Users/deepakn/dev/ruby/work/neo4j/.git", :branch => "observers"
+gem 'neo4j', :git => "git://github.com/andreasronge/neo4j.git"
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
